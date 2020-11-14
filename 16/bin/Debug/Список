@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListAtletes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <atletes>
+    <atletes>
+      <Name>Виктория</Name>
+      <SurName>Верон</SurName>
+      <Age>19</Age>
+      <Sport>Фигурное катание</Sport>
+      <Wins>21</Wins>
+    </atletes>
+    <atletes>
+      <Name>Иван</Name>
+      <SurName>Грат</SurName>
+      <Age>24</Age>
+      <Sport>Бокс </Sport>
+      <Wins>33</Wins>
+    </atletes>
+    <atletes>
+      <Name>Ильдар</Name>
+      <SurName>Хазарян</SurName>
+      <Age>21</Age>
+      <Sport>Борьба</Sport>
+      <Wins>14</Wins>
+    </atletes>
+    <atletes>
+      <Name>Анастасия </Name>
+      <SurName>Хелен</SurName>
+      <Age>34</Age>
+      <Sport>Керлинг</Sport>
+      <Wins>22</Wins>
+    </atletes>
+    <atletes>
+      <Name>Виктор</Name>
+      <SurName>Вик</SurName>
+      <Age>28</Age>
+      <Sport>Бокс</Sport>
+      <Wins>58</Wins>
+    </atletes>
+    <atletes>
+      <Name>Алена</Name>
+      <SurName>Кузницова</SurName>
+      <Age>26</Age>
+      <Sport>Гимнастика </Sport>
+      <Wins>33</Wins>
+    </atletes>
+    <atletes>
+      <Name>Алексанлдр </Name>
+      <SurName>Каренцов</SurName>
+      <Age>18</Age>
+      <Sport>Карате</Sport>
+      <Wins>66</Wins>
+    </atletes>
+    <atletes>
+      <Name>Глеб</Name>
+      <SurName>Воронцов</SurName>
+      <Age>29</Age>
+      <Sport>Шахматы</Sport>
+      <Wins>13</Wins>
+    </atletes>
+    <atletes>
+      <Name>Денис </Name>
+      <SurName>Воробьев</SurName>
+      <Age>38</Age>
+      <Sport>Спортивная стрельба</Sport>
+      <Wins>34</Wins>
+    </atletes>
+    <atletes>
+      <Name>Олеся</Name>
+      <SurName>Инаков</SurName>
+      <Age>24</Age>
+      <Sport>Тейковндо</Sport>
+      <Wins>10</Wins>
+    </atletes>
+  </atletes>
+</ListAtletes>
